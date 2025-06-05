@@ -1,0 +1,16 @@
+
+{
+  "name": "ADIS RO Capture",
+  "short_name": "ADIS RO",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Capture and sanitize repair order data for ADIS ingestion",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
